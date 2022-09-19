@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Base KideAppURL="https://kide.app/events/8c42a89d-eed1-4cf3-bde5-9f8716bc1103">
+	<The_amount_of_>
+		<a SimultaneousBots="1"/>
+		<b DifferentTicketTypesToBeSearched="4"/>
+		<c Tickets="2"/>
+	</The_amount_of_>
+	<Credentials>
+		<Username Email="xxx.com"/>
+		<Password Password="xxxx"/>
+	</Credentials>
+</Base>
