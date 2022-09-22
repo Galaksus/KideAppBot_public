@@ -9,7 +9,7 @@ Happro ohjeet:
       - Se myös tarkottaa että kun niitä on paljon päällä niin se vie paljon tehoo koneelta, mutta se myös kasvattaa lipunoston onnistumisprosenttia. 
       - Pidä tässä Happron tapauksessa se luku maksimissaan arvossa 5.
   5. Hyvä tyyli sammuttaa botit on painaa 'ShutdownBots.cmd' niin sammuu kaikki bottiin liittyvät asiat yhdestä paikasta.
-  
+  6. MUISTA koska kyseessä Happrot käynnistää botti ainakin 30 min ennen kuin lipunmyynti alkaa koska muuten se verkkosivu on vitun tukossa ja sitten botti ei toimi!
 
 
 
@@ -22,6 +22,6 @@ Config.xml:
       - huom! Kannattaa valita niin että ei ainakaan yli 20 kappaletta ole selaimia auki, koska se vie paljon tehoa prosessorilta. (10 - 20 kpl varmaan hyvä)
   4. Merkkaa montaako eri tyyppistä lippua ostat. Eli esim Happroilla on neljää eri jatkopaikkaa niin pistää siihen sitten arvoksi 4. (Rivi 5)
       - huom! Tämä avaa niin monta selainta kuinka montaa lipputyyppiä haetaan! 
-      - Eli selaimien kokonaismäärä tulee olemaan rivin 4 * rivin 5 arvo. Eli 
+      - Eli selaimien kokonaismäärä tulee olemaan rivin 4 * rivin 5 arvo. Eli luku voi olla äkkiä suuri!
   5. Merkkaa montako lippua haluat ostaa per yksittäinen lipputyyppi (rivi 6)
   6. Kirjoita KideApp-käyttäjätilisi email ja salasana riveille 9, 10.
